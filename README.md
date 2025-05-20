@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nadeem-144
+- 👋 Hi, I’m @NDNexus
 - 👀 I’m interested in coding and web development.
 - 🌱 I’m currently learning HTML, CSS and Javascript.
 - 💞️ I’m looking to collaborate on building simplewebsites using code, and maybe a few games. 😁
